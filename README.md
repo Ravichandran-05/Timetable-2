@@ -4,4 +4,4 @@ Level : Beginner
 
 Device : Lap/PC
 
-https://ravichandran-05.github.io/time_table/
+https://ravichandran-05.github.io/Timetable-2/
